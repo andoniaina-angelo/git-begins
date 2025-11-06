@@ -5,3 +5,4 @@ git status
 git dir 
 ls -a 
 git clone
+git pull
