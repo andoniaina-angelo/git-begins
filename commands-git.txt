@@ -6,3 +6,6 @@ git dir
 ls -a 
 git clone
 git pull
+git branch add-create-branch-command  # créer la branche
+git checkout add-create-branch-command  # basculer sur la branche
+git switch -c add-create-branch-command
